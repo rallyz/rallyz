@@ -7,13 +7,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **a property management app (Terra Stay)**
-
-🌱 I’m currently learning **JavaScript, TypeScript, React.Js, Next.Js, MongoDB, Node.Js, Express.Js**
-
-💬 Ask me about **React.Js, Next.Js, MongoDB, Node.Js**
-
-⚡ Fun fact **Bananas are berries, but strawberries are not.**
+Hello!
 
 <br/>
 
@@ -31,17 +25,17 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,java,py,cpp,cs,dart,html,css,bootstrap,react,qt,tailwind,laravel,nodejs,nextjs,flutter,flask,express,ps,tensorflow,matlab,arduino,git,github,postman,selenium,mysql,mongodb,sqlite,firebase,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,php,java,py,go,cpp,cs,wordpress,html,css,bootstrap,react,qt,cmake,tailwind,laravel,nodejs,nextjs,flutter,docker,tensorflow,unity,matlab,arduino,git,github,postman,selenium,mysql,mongodb,sqlite,firebase,vscode,ps,ae,au,pr,xd,blender,figma,ai," />
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> Contributions Log </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rallyz/rallyz/output/github-contribution-grid-snake.svg" />
   
@@ -60,9 +54,5 @@
 
 <br/><br/>
 <hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Email!;I'm+always+down+to+collab+😁">
-</h3>
 
 <br/>
