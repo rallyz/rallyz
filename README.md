@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=MonoLisa&weight=500&size=35&duration=4000&pause=1000&color=F7F7F7&background=000000A7&center=true&vCenter=true&random=false&width=700&height=80&lines=Hello+World!%F0%9F%91%8B;I'm+Rayhan+Maulana+Herdiansyah);" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=MonoLisa&weight=500&size=35&duration=4000&pause=1000&color=F7F7F7&background=000000A7&center=true&vCenter=true&random=false&width=700&height=80&lines=Hello+World!%F0%9F%91%8B;I'm+Rayhan+Maulana+Herdiansyah;" 
       />
 </h1>
 <h3 align="center">Tech Enthusiast | </h3>
