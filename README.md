@@ -2,12 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=MonoLisa&weight=500&size=35&duration=4000&pause=1000&color=F7F7F7&background=000000A7&center=true&vCenter=true&random=false&width=700&height=80&lines=Hello+World!%F0%9F%91%8B;I'm+Rayhan+Maulana+Herdiansyah;" 
       />
 </h1>
-<h3 align="center">Tech Enthusiast | </h3>
+<h3 align="center"> :cloud: Tech Enthusiast :cloud: </h3>
 <br/>
 
 <div align="center">
 
-Hello!
+ <p>  🔰 Undergraduated Programmer </p>
+ <p>  🇮🇩 | Indonesia | Bandung </p>
+ <p> 💻 Interest in Software / Web developing </p> 
 
 <br/>
 
@@ -17,6 +19,9 @@ Hello!
   </a>
   <a href="https://www.linkedin.com/in/rayhan-maulana-herdiansyah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://wa.me/085703032857">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
 </div>
 
