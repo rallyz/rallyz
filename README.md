@@ -30,7 +30,7 @@
 <h2 align="center"> Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,php,java,py,go,cpp,cs,wordpress,html,css,bootstrap,react,qt,cmake,tailwind,laravel,nodejs,nextjs,flutter,docker,tensorflow,unity,matlab,arduino,git,github,postman,selenium,mysql,mongodb,sqlite,firebase,vscode,ps,ae,au,pr,xd,blender,figma,ai," />
+    <img src="https://skillicons.dev/icons?i=js,php,java,py,go,cpp,cs,wordpress,html,css,bootstrap,react,qt,cmake,tailwind,laravel,nodejs,nextjs,flutter,docker,tensorflow,unity,matlab,arduino,git,github,postman,selenium,mysql,mongodb,sqlite,firebase,vscode,ps,ai,ae,au,pr,xd,blender,figma,," />
 </div>
 
 <br/>
