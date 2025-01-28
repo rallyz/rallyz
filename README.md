@@ -9,7 +9,7 @@
 
  <p>  🔰 Undergraduated Programmer </p>
  <p>  🇮🇩 | Indonesia | Bandung </p>
- <p> 💻 Interest in Software / Web developing </p> 
+ <p> 💻 Interest in Software / Web developing / Creative Industry </p> 
 
 <br/>
 
